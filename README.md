@@ -2,7 +2,7 @@
 
 Aplicação baseada no Tinder, desenvolvida pela [Rocketseat](https://github.com/Rocketseat)
 
-#Tecnologias utilizadas 
+# Tecnologias utilizadas 
 
 - Node.js;
 - ReactJS;
